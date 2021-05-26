@@ -1,5 +1,5 @@
 
 const a = 'flavio'
-const nameCapitalized = a.charAt(0).toUpperCase() + a.slice(1)
+const nombreItaliano = a.charAt(0).toUpperCase();
 
-console.log(nameCapitalized);
+console.log(nombreitaliano);
